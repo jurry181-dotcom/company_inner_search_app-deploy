@@ -30,7 +30,8 @@ langchain-text-splitters==0.3.11
 langsmith==0.4.27
 markdown-it-py==4.0.0
 MarkupSafe==3.0.2
-mdurl==0.1.2 narwhals==2.5.0
+mdurl==0.1.2
+narwhals==2.5.0
 numpy==2.3.3
 openai==1.107.2
 orjson==3.11.3
